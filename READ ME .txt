@@ -1,0 +1,4 @@
+########################################################### 
+Copy the img folder , sounds folder , main.py  in a same directory 
+#############################################################
+Run main.py using python IDE
